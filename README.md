@@ -10,7 +10,7 @@ of financial data and machine learning.
 - Low-latency complex event processing engines (C++)
 
 ## Background
-- **LSEG (Millennium IT)** — Next-gen capital market surveillance stack, 
+- **London Stock Exchange Group (LSEG)** — Next-gen capital market surveillance stack, 
   ML platform for anomaly detection, C++ pattern detection framework
 - **Binance** — Core data platform infrastructure at petabyte scale, 
   open-source query engine contributions, early LLM-to-SQL feasibility (2020)
