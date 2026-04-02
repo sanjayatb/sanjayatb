@@ -27,12 +27,12 @@ of financial data and machine learning.
 
 ## Core stack
 ```
-Languages   Java · Python · C++ · Scala · JavaScript
-Big Data    Kafka · Spark · Flink · HBase · ClickHouse · Presto · Hive
-ML          TensorFlow · Keras · scikit-learn · PyTorch
-Cloud       AWS (Certified SA) · Docker · Kubernetes · Terraform
+Languages   Rust · Java · Python · C++ · Scala · JavaScript 
+Big Data    Kafka · Spark · Flink · HBase · ClickHouse · Presto · Hive · ElasticSearch
+ML          TensorFlow · Keras · scikit-learn · PyTorch · Pandas · Scipy · GNN · FNO · PointNet
+Cloud       AWS (Certified SA) · Docker · Kubernetes · Terraform · Cloudformation
 AI Tools    Claude · Codex · Copilot · LangChain
-Frameworks  Spring Cloud · Spring Boot · Vert.x · gRPC
+Frameworks  Spring Cloud · Spring Boot · Vert.x
 ```
 
 ## Currently focused on
